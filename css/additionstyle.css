@@ -1,0 +1,128 @@
+/*--provide-starts--*/
+.provide-left {
+	padding: 2em 20px;
+}
+.provide-one {
+	background: #00E0F2;
+}
+.provide-two {
+	background: #02CDDD;
+}
+.provide-tre {
+  background: #05B7C5;
+}
+.provide-four {
+	background: #05a6b3;
+}
+.provide-left h5{
+	color:#fff;
+	font-size:13px;
+	font-weight:400;
+	margin:0;
+}
+.provide-left h3 {
+	color: #fff;
+	font-size: 29px;
+	font-weight: 400;
+	margin: 10px 0 0 0;
+}
+.provide-left p{
+	color: #fff;
+	font-size: 15px;
+	line-height: 1.4em;
+	margin: 9px 0 0 0;
+	font-family: 'Play-Regular';
+}
+/*--provide-end--*/
+
+/*--join-starts--*/
+.joino {
+	padding: 6em 0px;
+	background: rgba(34, 34, 34, 0.09);
+}
+.glyphicon-time,.glyphicon-user,
+.glyphicon-time, .glyphicon-user, .glyphicon-map-marker, .glyphicon-calendar {
+	font-size: 2.5em;
+	color: #05a6b3;
+	border: 3px solid #05a6b3;
+	padding: 30px 30px;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+}
+.join-lefto{
+	text-align:center;
+}
+.join-lefto h4 {
+	color: #EF6286;
+	font-size: 1.27em;
+	font-weight: 500;
+	margin: 24px 0 0 0;
+	text-transform: uppercase;
+}
+.join-lefto p{
+	color: rgb(179, 177, 178);
+	font-size: 15px;
+	line-height: 1.6em;
+	margin: 13px 0 0 0;
+	font-family: 'Play-Regular';
+}
+/*--join-end--*/
+
+/*Breadcrumb*/
+}
+.headdings, .Buttons, .progress-bars, .alerts, .bread-crumbs, .pagenatin, .appearance, .distracted {
+	padding: 2em 0;
+}
+.progress-bars,.well,.appearance,.bs-example,
+.Buttons,ol.breadcrumb,.alerts {
+	font-family: 'font-awesome';
+    font-size: 16px;
+    color: #fff;
+	background-color: blue;
+	
+}
+.banner{
+	background:url(../img/untitled-2.jpg) no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	max-height:800px;
+}
+.banner-top h1{
+	color:#fff;
+	font-size:2.5em;
+	font-weight:400;
+	margin:0;
+	font-family: 'Montserrat-Regular';
+}
+.banner-top h2 {
+	color: #05a6b3;
+	font-size: 3em;
+	font-weight: 400;
+	margin: 13px 0 0 0;
+	font-family: 'Montserrat-Regular';
+}
+.banner-top p {
+	color: #fff;
+	font-size: 15px;
+	line-height:1.6em;
+	margin: 18px 0 0 0;
+	font-family: 'Play-Regular';
+	width: 78%;
+}
+.banner-top {
+	text-align: center;
+	margin-top: 21%;
+	background-color: rgba(14, 11, 11, 0.76);;
+	border-radius:10px;
+	border-radius: border: 2% solid orange; 
+}
+.bnr-btn {
+	margin-top: 4%;
+	padding-bottom: 1%;
+}
